@@ -14,6 +14,7 @@ The experimental evaluation covers 3,780 paired workload scenarios and 34,020 sc
 - homogeneous, moderate, and high node heterogeneity;
 - different system-load factors;
 - 30 paired evaluation-workload seeds.
+- running a paper profile with PPO active;
 
 The repository supports reproducibility by providing the simulator implementation, fixed evaluation seeds, algorithm configurations, raw results, statistical tests, performance tables, visualization scripts, and trained reinforcement learning models.
 
